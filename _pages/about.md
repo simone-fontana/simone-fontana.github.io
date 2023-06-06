@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='www.unimib.it'>Università degli Studi di Milano - Bicocca, School of Law</a>
+subtitle: <a href=#>Università degli Studi di Milano - Bicocca, School of Law</a>
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Room U6-2034</p>
     <p>Ed. U6 - Agorà</p>
-    <p>Piazza dell'Ateneo Nuovo 1</p>
+    <p>P.zza dell'Ateneo Nuovo 1</p>
     <p>20126 Milano, Italy</p>
 
 news: false  # includes a list of news items
