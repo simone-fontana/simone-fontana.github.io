@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - simone-fontana
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - iralabdisco/point_clouds_registration_benchmark
+  - iralabdisco/probabilistic_point_clouds_registration
+  - iralabdisco/neural_registration_comparison

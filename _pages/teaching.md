@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: My teaching activity at Unimib
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- [Informatica per le Pubbliche Amministrazioni](https://elearning.unimib.it/course/view.php?id=43457), Corso di Laurea Triennale in *Scienze dei Servizi Giuridici*
+- [Smart Contracts, Bitcoin e Blockchain Technology](https://elearning.unimib.it/course/view.php?id=44714), Corso di Laurea Magistrale in *Diritto delle Organizzazioni Pubbliche e Private*
+- [Informatica](https://elearning.unimib.it/course/view.php?id=46388), *Scuola di Specializzazione in Neuropsicologia*
+- [Tecnologie per la Neuropsicologia](https://elearning.unimib.it/course/view.php?id=46409), *Scuola di Specializzazione in Neuropsicologia*
