@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room U6-2034</p>
-    <p>Ed. U6 - Agorà, Piazza dell'Ateneo Nuovo 1</p>
+    <p>Ed. U6 - Agorà</p>
+    <p>Piazza dell'Ateneo Nuovo 1</p>
     <p>20126 Milano, Italy</p>
 
 news: false  # includes a list of news items
