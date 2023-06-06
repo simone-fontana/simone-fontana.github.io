@@ -6,7 +6,7 @@ subtitle: <a href=#>Università degli Studi di Milano - Bicocca, School of Law</
 
 profile:
   align: right
-  image: me2.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room U6-2034</p>
